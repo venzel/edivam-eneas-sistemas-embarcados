@@ -8,11 +8,18 @@ Um sistema embarcado é um sistema de computador composto de hardware + software
 
 Este repositório é destinado a disciplina de **Sistemas Embarcados**, ministrada pelo professor **Alexandre Sales Vasconcelos**.
 
-## Atividade 3
+## Atividade 1
 
-👉 [USART e SPI - ATmega328](./atividades/atividade_03/sistemas-embarcados-atividade-3.pdf)<br />
+👉 [Descrição do projeto](./atividades/atividade_01/resposta_atividade_01.pdf)<br />
 
 ## Atividade 2
 
-👉 [Descrição do projeto](./atividades/atividade_02/atividade-2-sistemas-embarcados.pdf)<br />
-👉 [GPIO e Timer (ATmega328)](./atividades/atividade_02/circuito-sistema-embarcados-edivam-eneas.pdf)<br />
+👉 [GPIO e Timer (ATmega328)](./atividades/atividade_02/resposta_atividade_02.pdf)<br />
+
+## Atividade 3
+
+👉 [USART e SPI - ATmega328](./atividades/atividade_03/resposta_atividade_03.pdf)<br />
+
+## Atividade 4
+
+👉 [TWI, AC E ADC - ATmega328](./atividades/atividade_04/resposta_atividade_04x.pdf)<br />

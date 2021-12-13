@@ -6,7 +6,7 @@ Um sistema embarcado é um sistema de computador composto de hardware + software
 
 ## Orientador
 
-Este repositório é destinado a disciplina de **Sistemas Embarcados**, ministrada pelo professor **Alexandre Sales Vasconcelos**.
+Este repositório é destinado à disciplina de **Sistemas Embarcados**, ministrada pelo professor orientador **Alexandre Sales Vasconcelos**.
 
 ## Atividade 1
 
@@ -22,4 +22,4 @@ Este repositório é destinado a disciplina de **Sistemas Embarcados**, ministra
 
 ## Atividade 4
 
-👉 [TWI, AC E ADC - ATmega328](./atividades/atividade_04/resposta_atividade_04x.pdf)<br />
+👉 [TWI, AC E ADC - ATmega328](./atividades/atividade_04/resposta_atividade_04.pdf)<br />

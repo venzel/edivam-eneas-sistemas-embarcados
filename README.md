@@ -23,3 +23,7 @@ Este repositório é destinado à disciplina de **Sistemas Embarcados**, ministr
 ## Atividade 4
 
 👉 [TWI, AC E ADC - ATmega328](./atividades/atividade_04/resposta_atividade_04.pdf)<br />
+
+## Atividade 5
+
+👉 [Interrupções - ATmega328](./atividades/atividade_05/README.md)<br />

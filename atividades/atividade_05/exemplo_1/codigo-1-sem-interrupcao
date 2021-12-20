@@ -1,0 +1,14 @@
+#include <Arduino.h>
+
+int led 13;
+
+void setup() {
+  pinMode(led, OUTPUT); 
+}
+
+void loop() {
+  digitalWrite(led, 1); 
+  delay(5000); // 5s
+  digitalWrite(led, 0);
+  delay(30000);  // 30s
+}

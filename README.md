@@ -4,7 +4,7 @@ Um sistema embarcado é um sistema de computador composto de hardware + software
 
 <p align="center"><img src="./images/microcontrolador.png" width="200" /></p>
 
-## Orientador
+## Professor orientador
 
 Este repositório é destinado à disciplina de **Sistemas Embarcados**, ministrada pelo professor orientador **Alexandre Sales Vasconcelos**.
 
@@ -27,3 +27,11 @@ Este repositório é destinado à disciplina de **Sistemas Embarcados**, ministr
 ## Atividade 5
 
 👉 [Interrupções - ATmega328](./atividades/atividade_05/README.md)<br />
+
+## Atividade 6
+
+👉 [Entrega parcial do projeto](./atividades/atividade_06/entrega-parcial-projeto.pdf)<br />
+
+## Projeto finalizado
+
+👉 [Projeto em grupo, finalizado](https://github.com/venzel/sistemas-embarcados)

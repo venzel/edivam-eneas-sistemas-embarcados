@@ -2,11 +2,17 @@
 
 Um sistema embarcado é um sistema de computador composto de hardware + software, com uma única função dedicada, operando dentro de um outro sistema, elétrico, mecânico, hidráulico, etc.
 
-<p align="center"><img src="./images/microcontrolador.png" width="200" /></p>
+<p align="center"><img src="./images/microcontrolador.png" width="100" /></p>
 
 ## Professor orientador
 
 Este repositório é destinado à disciplina de **Sistemas Embarcados**, ministrada pelo professor orientador **Alexandre Sales Vasconcelos**.
+
+## Aluno
+
+Edivam Enéas de Almeida Júnior
+
+<hr />
 
 ## Atividade 1
 
